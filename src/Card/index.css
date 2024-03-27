@@ -1,0 +1,22 @@
+.card img {
+  width: 320px;
+  height: 192px;
+  border-radius: 5px;
+}
+.card {
+  width: 350;
+  padding: 15px;
+  box-shadow: 1px -1px 8px 1px rgba(118, 117, 117, 0.48);
+  cursor: pointer;
+}
+.card h2{
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 10px;
+  text-transform: capitalize;
+  font-size: 19px;
+  font-weight: 700;
+}
+p{
+  text-align: center;
+}
